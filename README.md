@@ -16,15 +16,22 @@ How to use yum history to roll back an update in Red Hat Enterprise Linux 6 and 
 How to use yum history to roll back an update in Red Hat Enterprise Linux 6 and later, https://access.redhat.com/solutions/64069<br>
 How do I change the default kernel in GRUB that is loaded at startup?, https://access.redhat.com/solutions/3089<br>
 
+## Blog
+du check the file/folder size, https://www.onejar99.com/linux-command-du/<br>
+tar, http://note.drx.tw/2008/04/command.html<br>
+Linux and Zero-copy, https://strikefreedom.top/linux-io-and-zero-copy<br>
+Linux cp, https://z.itpub.net/article/detail/9A82A7EEFCBAE40721B1A8A716383413<br>
+Linux cp/rm/mv, https://www.twblogs.net/a/5b8d151e2b717718833ac1ab<br>
+Performance Tuning on Linux - Disk I/O, https://cromwell-intl.com/open-source/performance-tuning/disks.html<br>
 
+## serverfault
+Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
 
 ## Windows Subsystem for Linux
 Windows Subsystem for Linux Installation Guide for Windows 10, https://docs.microsoft.com/en-us/windows/wsl/install-win10<br>
 Troubleshooting Windows Subsystem for Linux, https://docs.microsoft.com/en-us/windows/wsl/troubleshooting<br>
 Windows interoperability with Linux, https://docs.microsoft.com/en-us/windows/wsl/interop<br>
 Best practices for setting up a WSL development environment, https://docs.microsoft.com/en-us/windows/wsl/setup/environment<br>
-
-
 
 ## nicCraft
 How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
