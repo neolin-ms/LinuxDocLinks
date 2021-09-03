@@ -35,6 +35,7 @@ Linux cp, https://z.itpub.net/article/detail/9A82A7EEFCBAE40721B1A8A716383413<br
 Linux cp/rm/mv, https://www.twblogs.net/a/5b8d151e2b717718833ac1ab<br>
 Performance Tuning on Linux - Disk I/O, https://cromwell-intl.com/open-source/performance-tuning/disks.html<br>
 Tcpdump Command in Linux, https://linuxize.com/post/tcpdump-command-in-linux/<br>
+Bash scripting cheatsheet, https://devhints.io/bash<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
