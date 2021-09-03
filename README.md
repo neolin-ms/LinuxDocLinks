@@ -9,6 +9,14 @@ Repositories CommandLine, https://help.ubuntu.com/community/Repositories/Command
 CVE-2021-3156, https://ubuntu.com/security/CVE-2021-3156<br>
 How to disable TLS 1.0 and TLS 1.1 on Ubuntu, https://blog.surgut.co.uk/2019/08/how-to-disable-tls-10-and-tls-11-on.html<br>
 
+## CentOS
+CentOS Product Specifications, https://wiki.centos.org/About/Product<br>
+CentOS and Red Hat, https://wiki.centos.org/RedHat<br>
+
+## OpenLogic
+The Long-Term Outlook for CentOS 7 Support, https://www.openlogic.com/blog/long-term-outlook-centos-7-support#is-centos-7-still-supported<br>
+CentOS vs. Red Hat Enterprise Linux (RHEL): Do the Differences Justify the Cost?, https://www.openlogic.com/blog/centos-vs-redhat#lifecycle<br>
+
 ## Red Hat Linux
 Getting "attempt to access beyond end of device" error for XFS Filesystem, https://access.redhat.com/solutions/2833571<br>
 CVE-2021-3156, https://access.redhat.com/security/cve/cve-2021-3156<br>
