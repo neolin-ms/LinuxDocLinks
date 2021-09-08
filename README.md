@@ -26,6 +26,8 @@ How do I change the default kernel in GRUB that is loaded at startup?, https://a
 How to download rpm packages manually from the Customer Portal?, https://access.redhat.com/solutions/6996<br>
 Product Downloads, https://access.redhat.com/downloads/<br>
 Red Hat Packages, https://access.redhat.com/downloads/content/package-browser<br>
+Production Support Terms of Service, https://access.redhat.com/support/offerings/production/sla<br>
+Red Hat Enterprise Linux Life Cycle, https://access.redhat.com/support/policy/updates/errata<br>
 
 ## Container
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
