@@ -42,6 +42,8 @@ Performance Tuning on Linux - Disk I/O, https://cromwell-intl.com/open-source/pe
 Tcpdump Command in Linux, https://linuxize.com/post/tcpdump-command-in-linux/<br>
 Bash scripting cheatsheet, https://devhints.io/bash<br>
 Get the CA cert for curl, https://daniel.haxx.se/blog/2018/11/07/get-the-ca-cert-for-curl/<br>
+Network Monitoring Tools, https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html<br>
+Collectl, http://collectl.sourceforge.net/<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
@@ -52,9 +54,15 @@ Troubleshooting Windows Subsystem for Linux, https://docs.microsoft.com/en-us/wi
 Windows interoperability with Linux, https://docs.microsoft.com/en-us/windows/wsl/interop<br>
 Best practices for setting up a WSL development environment, https://docs.microsoft.com/en-us/windows/wsl/setup/environment<br>
 
+## Docker
+Azure API Management Gateway, https://hub.docker.com/_/microsoft-azure-api-management-selfhostedgateway?tab=description<br>
+
 ## nicCraft
 How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
 How do I check if a port is in use on Linux?, https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/<br>
+
+Network Monitoring Tools
+
 
 ## Wikipedia.org 
 RabbitMQ, https://en.wikipedia.org/wiki/RabbitMQ<br>
