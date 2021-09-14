@@ -32,6 +32,12 @@ Red Hat Enterprise Linux Life Cycle, https://access.redhat.com/support/policy/up
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
 
+## Kubernetes
+Viewing, finding resources cheatsheet, https://kubernetes.io/docs/reference/kubectl/cheatsheet/<br>
+
+## HEML
+Quickstart Guide, https://helm.sh/docs/intro/quickstart/<br>
+
 ## Blog
 du check the file/folder size, https://www.onejar99.com/linux-command-du/<br>
 tar, http://note.drx.tw/2008/04/command.html<br>
@@ -61,8 +67,8 @@ Azure API Management Gateway, https://hub.docker.com/_/microsoft-azure-api-manag
 How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
 How do I check if a port is in use on Linux?, https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/<br>
 
-Network Monitoring Tools
-
+## Network Monitoring Tools
+nping(1) — Linux manual page, https://man7.org/linux/man-pages/man1/nping.1.html<br>
 
 ## Wikipedia.org 
 RabbitMQ, https://en.wikipedia.org/wiki/RabbitMQ<br>
