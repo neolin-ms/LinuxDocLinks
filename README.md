@@ -18,6 +18,7 @@ The Long-Term Outlook for CentOS 7 Support, https://www.openlogic.com/blog/long-
 CentOS vs. Red Hat Enterprise Linux (RHEL): Do the Differences Justify the Cost?, https://www.openlogic.com/blog/centos-vs-redhat#lifecycle<br>
 
 ## Red Hat Linux
+Red Hat Enterprise Linux Life Cycle, https://access.redhat.com/support/policy/updates/errata<br>
 Getting "attempt to access beyond end of device" error for XFS Filesystem, https://access.redhat.com/solutions/2833571<br>
 CVE-2021-3156, https://access.redhat.com/security/cve/cve-2021-3156<br>
 How to use yum history to roll back an update in Red Hat Enterprise Linux 6 and later, https://access.redhat.com/solutions/64069<br>
@@ -27,7 +28,8 @@ How to download rpm packages manually from the Customer Portal?, https://access.
 Product Downloads, https://access.redhat.com/downloads/<br>
 Red Hat Packages, https://access.redhat.com/downloads/content/package-browser<br>
 Production Support Terms of Service, https://access.redhat.com/support/offerings/production/sla<br>
-Red Hat Enterprise Linux Life Cycle, https://access.redhat.com/support/policy/updates/errata<br>
+Red Hat Enterprise Linux Retired Life Cycle Dates, https://access.redhat.com/articles/4038291#red-hat-enterprise-linux-7-6<br>
+Product Life Cycles, https://access.redhat.com/product-life-cycles?product=Red%20Hat%20Enterprise%20Linux,OpenShift%20Container%20Platform%204<br>
 
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
