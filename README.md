@@ -31,6 +31,9 @@ Production Support Terms of Service, https://access.redhat.com/support/offerings
 Red Hat Enterprise Linux Retired Life Cycle Dates, https://access.redhat.com/articles/4038291#red-hat-enterprise-linux-7-6<br>
 Product Life Cycles, https://access.redhat.com/product-life-cycles?product=Red%20Hat%20Enterprise%20Linux,OpenShift%20Container%20Platform%204<br>
 
+## Linux manual
+ethtool(8) — Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
+
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
 
