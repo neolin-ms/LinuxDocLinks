@@ -55,6 +55,7 @@ Bash scripting cheatsheet, https://devhints.io/bash<br>
 Get the CA cert for curl, https://daniel.haxx.se/blog/2018/11/07/get-the-ca-cert-for-curl/<br>
 Network Monitoring Tools, https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html<br>
 Collectl, http://collectl.sourceforge.net/<br>
+How To Change Time Zone in CentOS 8 / RHEL 8, https://www.itzgeek.com/how-tos/linux/centos-how-tos/how-to-change-time-zone-in-centos-8-rhel-8.html<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
