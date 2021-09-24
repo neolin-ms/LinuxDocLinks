@@ -30,6 +30,8 @@ Red Hat Packages, https://access.redhat.com/downloads/content/package-browser<br
 Production Support Terms of Service, https://access.redhat.com/support/offerings/production/sla<br>
 Red Hat Enterprise Linux Retired Life Cycle Dates, https://access.redhat.com/articles/4038291#red-hat-enterprise-linux-7-6<br>
 Product Life Cycles, https://access.redhat.com/product-life-cycles?product=Red%20Hat%20Enterprise%20Linux,OpenShift%20Container%20Platform%204<br>
+How do I open and manage a support case on the Customer Portal?, https://access.redhat.com/articles/38363<br>
+How ABRT works, https://abrt.readthedocs.io/en/latest/howitworks.html<br>
 
 ## Linux manual
 ethtool(8) — Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
@@ -56,6 +58,7 @@ Get the CA cert for curl, https://daniel.haxx.se/blog/2018/11/07/get-the-ca-cert
 Network Monitoring Tools, https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html<br>
 Collectl, http://collectl.sourceforge.net/<br>
 How To Change Time Zone in CentOS 8 / RHEL 8, https://www.itzgeek.com/how-tos/linux/centos-how-tos/how-to-change-time-zone-in-centos-8-rhel-8.html<br>
+Base64 Guru, https://base64.guru/tools/validator<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
@@ -89,3 +92,4 @@ RabbitMQ Clustering Gude, https://www.rabbitmq.com/clustering.html<br>
 
 ## CVE
 CVE List home, https://cve.mitre.org/cve/<br>
+
