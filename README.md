@@ -82,6 +82,10 @@ How do I check if a port is in use on Linux?, https://www.cyberciti.biz/faq/how-
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
 
+## pkgs.org
+CentOS 7.x, libsss_sudo-1.16.5-10.el7_9.5.x86_64.rpm, https://centos.pkgs.org/7/centos-updates-x86_64/libsss_sudo-1.16.5-10.el7_9.5.x86_64.rpm.html<br>
+
+
 ## Network Monitoring Tools
 nping(1) — Linux manual page, https://man7.org/linux/man-pages/man1/nping.1.html<br>
 
