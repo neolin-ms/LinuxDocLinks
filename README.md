@@ -34,8 +34,9 @@ How do I open and manage a support case on the Customer Portal?, https://access.
 How ABRT works, https://abrt.readthedocs.io/en/latest/howitworks.html<br>
 What is an sosreport and how to create one in Red Hat Enterprise Linux?, https://access.redhat.com/solutions/3592<br>
 
-## Linux manual
-ethtool(8) — Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
+## Linux manual page
+ethtool(8) - Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
+ss(8) - Linux manual page, https://www.man7.org/linux/man-pages/man8/ss.8.html<br>
 
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
@@ -78,10 +79,14 @@ About SSH, https://docs.github.com/en/authentication/connecting-to-github-with-s
 ## Docker
 Azure API Management Gateway, https://hub.docker.com/_/microsoft-azure-api-management-selfhostedgateway?tab=description<br>
 
-## nicCraft
+## nixCraft
 How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
 How do I check if a port is in use on Linux?, https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/<br>
 How to use yum command on CentOS/RHEL, https://www.cyberciti.biz/faq/rhel-centos-fedora-linux-yum-command-howto/<br>
+How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
+
+## phoenixNAP
+How To Use Linux SS Command, https://phoenixnap.com/kb/ss-command<br>
 
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
