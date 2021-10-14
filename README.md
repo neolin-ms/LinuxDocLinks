@@ -32,6 +32,7 @@ Red Hat Enterprise Linux Retired Life Cycle Dates, https://access.redhat.com/art
 Product Life Cycles, https://access.redhat.com/product-life-cycles?product=Red%20Hat%20Enterprise%20Linux,OpenShift%20Container%20Platform%204<br>
 How do I open and manage a support case on the Customer Portal?, https://access.redhat.com/articles/38363<br>
 How ABRT works, https://abrt.readthedocs.io/en/latest/howitworks.html<br>
+What is an sosreport and how to create one in Red Hat Enterprise Linux?, https://access.redhat.com/solutions/3592<br>
 
 ## Linux manual
 ethtool(8) — Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
