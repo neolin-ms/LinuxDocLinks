@@ -63,6 +63,13 @@ How To Change Time Zone in CentOS 8 / RHEL 8, https://www.itzgeek.com/how-tos/li
 Base64 Guru, https://base64.guru/tools/validator<br>
 Networking - tcpdump, https://amits-notes.readthedocs.io/en/latest/networking/tcpdump.html<br>
 Linux tcpdump, https://www.jinnsblog.com/2020/09/linux-tcpdump-network-traffic-tutorial.html<br>
+Enable root access on Azure Linux Virtual Machine, https://anoopkm.wordpress.com/2017/07/13/enable-root-access-on-azure-linux-virtual-machine/<br>
+Using root privileges on Linux virtual machines in Azure, https://github.com/Huachao/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-use-root-privileges.md<br>
+Add a user to an Azure VM, https://github.com/rgl/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-add-user.md<br>
+Linux LVM - resizepart the PV, https://godleon.github.io/blog/Linux/Linux-extend-lvm-from-unused-space/<br>
+
+
+
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
@@ -87,6 +94,7 @@ How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/u
 
 ## phoenixNAP
 How To Use Linux SS Command, https://phoenixnap.com/kb/ss-command<br>
+How to Create Partitions in Linux, https://phoenixnap.com/kb/linux-create-partition<br>
 
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
