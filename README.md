@@ -4,6 +4,9 @@
 GNU GRUB, https://www.gnu.org/software/grub/<br>
 GNU GRUB Manual 2.06, https://www.gnu.org/software/grub/manual/grub/grub.html<br>
 
+## Linux vbrid
+No.14 Quota and RAID/LVM/iSCSI, https://linux.vbird.org/linux_basic/centos7/0420quota.php#lvm<br>
+
 ## ubuntu Linux
 Repositories CommandLine, https://help.ubuntu.com/community/Repositories/CommandLine<br> 
 CVE-2021-3156, https://ubuntu.com/security/CVE-2021-3156<br>
