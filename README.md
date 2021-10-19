@@ -99,6 +99,9 @@ How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/u
 How To Use Linux SS Command, https://phoenixnap.com/kb/ss-command<br>
 How to Create Partitions in Linux, https://phoenixnap.com/kb/linux-create-partition<br>
 
+## TecMint
+How to change UUID of Partition in Linux FileSystem, https://www.tecmint.com/change-uuid-of-partition-in-linux/<br>
+
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
 
