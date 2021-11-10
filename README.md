@@ -12,6 +12,10 @@ Repositories CommandLine, https://help.ubuntu.com/community/Repositories/Command
 CVE-2021-3156, https://ubuntu.com/security/CVE-2021-3156<br>
 How to disable TLS 1.0 and TLS 1.1 on Ubuntu, https://blog.surgut.co.uk/2019/08/how-to-disable-tls-10-and-tls-11-on.html<br>
 
+## Debian
+Cloud MicrosoftAzure, https://wiki.debian.org/Cloud/MicrosoftAzure<br>
+Debian Repository Format, https://wiki.debian.org/DebianRepository/Format#A.22Release.22_files<>
+
 ## CentOS
 CentOS Product Specifications, https://wiki.centos.org/About/Product<br>
 CentOS and Red Hat, https://wiki.centos.org/RedHat<br>
@@ -36,6 +40,8 @@ Product Life Cycles, https://access.redhat.com/product-life-cycles?product=Red%2
 How do I open and manage a support case on the Customer Portal?, https://access.redhat.com/articles/38363<br>
 How ABRT works, https://abrt.readthedocs.io/en/latest/howitworks.html<br>
 What is an sosreport and how to create one in Red Hat Enterprise Linux?, https://access.redhat.com/solutions/3592<br>
+How to enable host time synchronization on Microsoft Azure, https://access.redhat.com/solutions/3584951<br>
+RHEL 7.x - CHAPTER 18. CONFIGURING NTP USING THE CHRONY SUITE, https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ntp_using_the_chrony_suite#sect-Using_chrony<br>
 
 ## Linux manual page
 ethtool(8) - Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
