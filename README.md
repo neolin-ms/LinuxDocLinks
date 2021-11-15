@@ -43,10 +43,13 @@ How ABRT works, https://abrt.readthedocs.io/en/latest/howitworks.html<br>
 What is an sosreport and how to create one in Red Hat Enterprise Linux?, https://access.redhat.com/solutions/3592<br>
 How to enable host time synchronization on Microsoft Azure, https://access.redhat.com/solutions/3584951<br>
 RHEL 7.x - CHAPTER 18. CONFIGURING NTP USING THE CHRONY SUITE, https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ntp_using_the_chrony_suite#sect-Using_chrony<br>
+How to get the rpm packages update history., https://access.redhat.com/solutions/59698<br>
+
 
 ## Linux manual page
 ethtool(8) - Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
 ss(8) - Linux manual page, https://www.man7.org/linux/man-pages/man8/ss.8.html<br>
+yum(8) - Linux man page, https://linux.die.net/man/8/yum<br>
 
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
@@ -99,6 +102,7 @@ How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/u
 How do I check if a port is in use on Linux?, https://www.cyberciti.biz/faq/how-do-i-check-if-a-port-is-in-use-on-linux/<br>
 How to use yum command on CentOS/RHEL, https://www.cyberciti.biz/faq/rhel-centos-fedora-linux-yum-command-howto/<br>
 How to check if port is in use on Linux or Unix, https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/<br>
+CentOS / RHEL See Detailed History Of yum history Commands, https://www.cyberciti.biz/faq/yum-history-command/<br>
 
 ## phoenixNAP
 How To Use Linux SS Command, https://phoenixnap.com/kb/ss-command<br>
@@ -106,6 +110,8 @@ How to Create Partitions in Linux, https://phoenixnap.com/kb/linux-create-partit
 
 ## TecMint
 How to change UUID of Partition in Linux FileSystem, https://www.tecmint.com/change-uuid-of-partition-in-linux/<br>
+How to Use ‘Yum History’ to Find Out Installed or Removed Packages Info, https://www.tecmint.com/view-yum-history-to-find-packages-info/<br>
+
 
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
