@@ -26,6 +26,7 @@ CentOS vs. Red Hat Enterprise Linux (RHEL): Do the Differences Justify the Cost?
 
 ## Red Hat Linux
 Red Hat Enterprise Linux Life Cycle, https://access.redhat.com/support/policy/updates/errata<br>
+Red Hat Enterprise Linux Release Dates, https://access.redhat.com/articles/3078<br> 
 Getting "attempt to access beyond end of device" error for XFS Filesystem, https://access.redhat.com/solutions/2833571<br>
 CVE-2021-3156, https://access.redhat.com/security/cve/cve-2021-3156<br>
 How to use yum history to roll back an update in Red Hat Enterprise Linux 6 and later, https://access.redhat.com/solutions/64069<br>
