@@ -81,6 +81,7 @@ Using root privileges on Linux virtual machines in Azure, https://github.com/Hua
 Add a user to an Azure VM, https://github.com/rgl/azure-content/blob/master/articles/virtual-machines/virtual-machines-linux-add-user.md<br>
 Linux LVM - resizepart the PV, https://godleon.github.io/blog/Linux/Linux-extend-lvm-from-unused-space/<br>
 12 Tcpdump Commands - A Newtork Sniffer Tool, https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/<br>
+Changed CentOS 7 Default Network Name, http://linuxtechnic.blogspot.com/2015/03/centos7.html<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
