@@ -82,6 +82,9 @@ Add a user to an Azure VM, https://github.com/rgl/azure-content/blob/master/arti
 Linux LVM - resizepart the PV, https://godleon.github.io/blog/Linux/Linux-extend-lvm-from-unused-space/<br>
 12 Tcpdump Commands - A Newtork Sniffer Tool, https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/<br>
 Changed CentOS 7 Default Network Name, http://linuxtechnic.blogspot.com/2015/03/centos7.html<br>
+How To Set Up an NFS Mount on Ubuntu 18.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-18-04<br>
+Linux Bash Shell - cut printf awk set, https://tw511.com/a/01/10469.html<br>
+Linux Bash Shell - cut example, https://blog.gtwang.org/linux/linux-cut-command-tutorial-and-examples/<br>
 
 ## serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
