@@ -117,6 +117,8 @@ How to Create Partitions in Linux, https://phoenixnap.com/kb/linux-create-partit
 How to change UUID of Partition in Linux FileSystem, https://www.tecmint.com/change-uuid-of-partition-in-linux/<br>
 How to Use ‘Yum History’ to Find Out Installed or Removed Packages Info, https://www.tecmint.com/view-yum-history-to-find-packages-info/<br>
 
+## Shell Tips
+Sudo: No Tty Present And No Askpass Program Specified, https://www.shell-tips.com/linux/sudo-no-tty-present-and-no-askpass-program-specified/<br>
 
 ## devconnected - LINUX SYSTEM ADMINISTRATION
 How To Find Last Login on Linux, https://devconnected.com/how-to-find-last-login-on-linux/<br>
