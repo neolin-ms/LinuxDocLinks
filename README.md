@@ -46,6 +46,11 @@ How to enable host time synchronization on Microsoft Azure, https://access.redha
 RHEL 7.x - CHAPTER 18. CONFIGURING NTP USING THE CHRONY SUITE, https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ntp_using_the_chrony_suite#sect-Using_chrony<br>
 How to get the rpm packages update history., https://access.redhat.com/solutions/59698<br>
 
+## SUSE
+A New Update Infrastructure For The Public Cloud, https://www.suse.com/c/a-new-update-infrastructure-for-the-public-cloud/<br>
+Public Cloud Infrastructure Update, https://www.suse.com/support/kb/doc/?id=000019633<br>
+AWS or Azure SUSE cloud instance missing software repositories, https://www.suse.com/support/kb/doc/?id=000019085<br>
+susecloud-repocheck, https://github.com/rfparedes/susecloud-repocheck<br>
 
 ## Linux manual page
 ethtool(8) - Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.html<br>
