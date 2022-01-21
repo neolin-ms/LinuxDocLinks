@@ -92,8 +92,13 @@ Changed CentOS 7 Default Network Name, http://linuxtechnic.blogspot.com/2015/03/
 How To Set Up an NFS Mount on Ubuntu 18.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-18-04<br>
 Linux Bash Shell - cut printf awk set, https://tw511.com/a/01/10469.html<br>
 Linux Bash Shell - cut example, https://blog.gtwang.org/linux/linux-cut-command-tutorial-and-examples/<br>
+Setup SSL using .PFX file on nginx/apache2, https://xy2z.io/posts/2020-pfx-certificates-nginx-apache2/<br>
+How to Convert CER to CRT in OpenSSL, https://cheapsslsecurity.com/p/how-to-convert-cer-to-crt-in-openssl/<br>
+der/pem/cer/crt/key/pfx, https://www.twblogs.net/a/5c6fca09bd9eee7f073394b5<br> 
+openssl conver cer to crt, https://diary.yungke.li/openssl-cer-to-crt/<br>
+SSL certificate how-to guides, https://www.net-chinese.com.tw/nc/index.php/LinkPageText/Index/1<br>
 
-## serverfault
+##serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
 
 ## Windows Subsystem for Linux
