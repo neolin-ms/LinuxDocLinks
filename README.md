@@ -59,6 +59,9 @@ ethtool(8) - Linux manual page, https://man7.org/linux/man-pages/man8/ethtool.8.
 ss(8) - Linux manual page, https://www.man7.org/linux/man-pages/man8/ss.8.html<br>
 yum(8) - Linux man page, https://linux.die.net/man/8/yum<br>
 
+## LinuxConfig
+Identifying File types in Linux, https://linuxconfig.org/identifying-file-types-in-linux<br>
+
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
 
