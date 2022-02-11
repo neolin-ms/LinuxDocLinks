@@ -46,6 +46,7 @@ How to enable host time synchronization on Microsoft Azure, https://access.redha
 RHEL 7.x - CHAPTER 18. CONFIGURING NTP USING THE CHRONY SUITE, https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ntp_using_the_chrony_suite#sect-Using_chrony<br>
 How to get the rpm packages update history., https://access.redhat.com/solutions/59698<br>
 SSL error when connecting to the Red Hat Update Infrastructure (RHUI) Server for Azure Updates, https://access.redhat.com/solutions/3167021<br>
+Kubernetes Autoscaling - 3 Common Methods Explained, https://cloud.redhat.com/blog/kubernetes-autoscaling-3-common-methods-explained<br>
 
 ## SUSE
 A New Update Infrastructure For The Public Cloud, https://www.suse.com/c/a-new-update-infrastructure-for-the-public-cloud/<br>
