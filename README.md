@@ -101,6 +101,8 @@ How to Convert CER to CRT in OpenSSL, https://cheapsslsecurity.com/p/how-to-conv
 der/pem/cer/crt/key/pfx, https://www.twblogs.net/a/5c6fca09bd9eee7f073394b5<br> 
 openssl conver cer to crt, https://diary.yungke.li/openssl-cer-to-crt/<br>
 SSL certificate how-to guides, https://www.net-chinese.com.tw/nc/index.php/LinkPageText/Index/1<br>
+How to set default boot kernel on Linux ( CentOS / RHEL 7 ), https://www.golinuxcloud.com/set-default-boot-kernel-version-old-previous-rhel-linux/<br>
+GRUB configureation, https://hugh712.gitbooks.io/grub/content/configuration-files.html<br>
 
 ##serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
