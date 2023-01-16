@@ -62,6 +62,9 @@ yum(8) - Linux man page, https://linux.die.net/man/8/yum<br>
 ## LinuxConfig
 Identifying File types in Linux, https://linuxconfig.org/identifying-file-types-in-linux<br>
 
+## Linuxhint
+Configure TFTP Server on CentOS 8, https://linuxhint.com/tftp_server_centos8/<br>
+
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
 
