@@ -106,6 +106,7 @@ openssl conver cer to crt, https://diary.yungke.li/openssl-cer-to-crt/<br>
 SSL certificate how-to guides, https://www.net-chinese.com.tw/nc/index.php/LinkPageText/Index/1<br>
 How to set default boot kernel on Linux ( CentOS / RHEL 7 ), https://www.golinuxcloud.com/set-default-boot-kernel-version-old-previous-rhel-linux/<br>
 GRUB configureation, https://hugh712.gitbooks.io/grub/content/configuration-files.html<br>
+Mounting Unix Shares with a Windows NFS Client, https://blog.netwrix.com/2022/11/18/mounting-nfs-client-windows/<br>
 
 ##serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
