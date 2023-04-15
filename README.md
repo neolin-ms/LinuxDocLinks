@@ -5,6 +5,7 @@ GNU GRUB, https://www.gnu.org/software/grub/<br>
 GNU GRUB Manual 2.06, https://www.gnu.org/software/grub/manual/grub/grub.html<br>
 
 ## Linux vbrid
+No.10 Learning the BASH, https://linux.vbird.org/linux_basic/centos7/0320bash.php<br>
 No.14 Quota and RAID/LVM/iSCSI, https://linux.vbird.org/linux_basic/centos7/0420quota.php#lvm<br>
 
 ## ubuntu Linux
