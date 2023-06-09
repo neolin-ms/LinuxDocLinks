@@ -108,6 +108,7 @@ SSL certificate how-to guides, https://www.net-chinese.com.tw/nc/index.php/LinkP
 How to set default boot kernel on Linux ( CentOS / RHEL 7 ), https://www.golinuxcloud.com/set-default-boot-kernel-version-old-previous-rhel-linux/<br>
 GRUB configureation, https://hugh712.gitbooks.io/grub/content/configuration-files.html<br>
 Mounting Unix Shares with a Windows NFS Client, https://blog.netwrix.com/2022/11/18/mounting-nfs-client-windows/<br>
+Install AzCopy, https://gist.github.com/aessing/76f1200c9f5b2b9671937b3b0ed5fd6f<br>
 
 ##serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
