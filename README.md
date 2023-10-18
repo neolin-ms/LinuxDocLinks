@@ -12,6 +12,7 @@ No.14 Quota and RAID/LVM/iSCSI, https://linux.vbird.org/linux_basic/centos7/0420
 Repositories CommandLine, https://help.ubuntu.com/community/Repositories/CommandLine<br> 
 CVE-2021-3156, https://ubuntu.com/security/CVE-2021-3156<br>
 How to disable TLS 1.0 and TLS 1.1 on Ubuntu, https://blog.surgut.co.uk/2019/08/how-to-disable-tls-10-and-tls-11-on.html<br>
+Find DHCP Lease & DNS Info In 18.04 LTS, https://askubuntu.com/questions/1039056/find-dhcp-lease-dns-info-in-18-04-lts<br>
 
 ## Debian
 Cloud MicrosoftAzure, https://wiki.debian.org/Cloud/MicrosoftAzure<br>
