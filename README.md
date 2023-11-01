@@ -110,6 +110,7 @@ How to set default boot kernel on Linux ( CentOS / RHEL 7 ), https://www.golinux
 GRUB configureation, https://hugh712.gitbooks.io/grub/content/configuration-files.html<br>
 Mounting Unix Shares with a Windows NFS Client, https://blog.netwrix.com/2022/11/18/mounting-nfs-client-windows/<br>
 Install AzCopy, https://gist.github.com/aessing/76f1200c9f5b2b9671937b3b0ed5fd6f<br>
+How to connect to custom CA by curl, https://blog.miniasp.com/post/2020/08/23/curl-and-self-signed-certificated-or-CA-certificate<br>
 
 ##serverfault
 Limit Hard Drive Write Speed by User in Linux, https://serverfault.com/questions/351352/limit-hard-drive-write-speed-by-user-in-linux<br>
