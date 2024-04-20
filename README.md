@@ -67,6 +67,12 @@ Identifying File types in Linux, https://linuxconfig.org/identifying-file-types-
 ## Linuxhint
 Configure TFTP Server on CentOS 8, https://linuxhint.com/tftp_server_centos8/<br>
 
+## Apache Maven Project
+Maven Getting Started Guide, https://maven.apache.org/guides/getting-started/index.html<br>
+Maven in 5 Minutes, https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html<br>
+MVN Repository, https://mvnrepository.com/<br>
+20+ Maven Commands and Options (Cheat Sheet), https://www.digitalocean.com/community/tutorials/maven-commands-options-cheat-sheet<br>
+
 ## Containerd
 projectatomic containerd - Client CLI(ctr), https://github.com/projectatomic/containerd/blob/master/docs/cli.md<br>
 
