@@ -181,3 +181,6 @@ RabbitMQ Clustering Gude, https://www.rabbitmq.com/clustering.html<br>
 ## CVE
 CVE List home, https://cve.mitre.org/cve/<br>
 
+## YouTube
+Missing Semester IAP 2020 (Lecture videos from the class offered during MIT's Independent Activities Period in 2020. The Shell), [link](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)<br>
+
