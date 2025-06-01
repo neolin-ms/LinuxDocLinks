@@ -22,6 +22,9 @@ Debian Repository Format, https://wiki.debian.org/DebianRepository/Format#A.22Re
 CentOS Product Specifications, https://wiki.centos.org/About/Product<br>
 CentOS and Red Hat, https://wiki.centos.org/RedHat<br>
 
+## MDN Web Docs
+HTTP response status codes, https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status<br>
+
 ## OpenLogic
 The Long-Term Outlook for CentOS 7 Support, https://www.openlogic.com/blog/long-term-outlook-centos-7-support#is-centos-7-still-supported<br>
 CentOS vs. Red Hat Enterprise Linux (RHEL): Do the Differences Justify the Cost?, https://www.openlogic.com/blog/centos-vs-redhat#lifecycle<br>
